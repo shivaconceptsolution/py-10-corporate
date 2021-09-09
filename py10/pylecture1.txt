@@ -1,0 +1,60 @@
+What is Python?
+
+It is interpretar based language that is used to create system software, application software, data science application, machine learning application and AI based application.
+
+Python script is easy to learn and light weight as compare to another script based language, it is open source language.
+
+
+
+
+How to install Pythopn on Machine?
+
+We can run program using two different ways.
+
+1)  Python Offline:-
+
+    visit www.python.org  and download python software
+    It will provide IDLE  (Integrated Development Learning Environment)
+
+     Other Python Software Tools:-
+ 
+     Pychom, VS Code, Sublime-Text, Notepad++
+
+
+2)  Python Online:-
+    It will  provide cloud editor of python that can be used under web mode.
+
+    www.jupyter.org/try
+
+
+
+Python History:-
+
+Python script was created by GUIDO VAN RASSUM, he is programmer of DUTCH programming language, he was belonging from neitherland country.
+
+
+Python script is an old script because it was officialy launched at 1997.
+
+Initially Python Script was used to create device driver system but now python script can be used for all type of application.
+
+
+Youtube, Twitter and Instagram application has been created by Python Script.
+
+
+
+ASSIGNMENT:-
+
+1)  WAP to display only month on date of birth where dob format is ddmmyyyy?
+
+   for eg  10061992   06
+
+2)  WAP to calculate area of triangle using heron's formula?
+
+3)   WAP to calcuate CI?
+
+4)   WAP to reverse 3 digit number?
+
+5)   WAP to calculate area of Sphare?
+
+
+   
